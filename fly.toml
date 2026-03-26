@@ -5,7 +5,7 @@
 # Users must include their Runalyze API token in the Authorization header:
 # Authorization: Bearer <your-runalyze-token>
 
-app = 'runalyze-mcp-server'
+app = 'runalyze-mcp-server-fraxachun'
 primary_region = 'ams'
 
 [build]
